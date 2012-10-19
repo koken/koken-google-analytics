@@ -4,7 +4,7 @@ class KokenGoogleAnalytics extends KokenPlugin {
 
 	function __construct()
 	{
-		$this->register_output_filter('before_closing_head', 'render');
+		$this->register_filter('before_closing_head', 'render');
 	}
 
 	function render()
