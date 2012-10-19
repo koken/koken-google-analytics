@@ -6,7 +6,7 @@ This [Koken](http://koken.me) plugin automatically generates and inserts Google 
 Requirements
 ------------
 
-1. [Koken](http://koken.me) installation
+1. [Koken](http://koken.me) installation (0.2.0 or higher)
 
 2. [Google Analytics](www.google.com/analytics) account (available for free)
 
