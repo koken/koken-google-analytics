@@ -1,0 +1,24 @@
+{ 
+	"name": "Google Analytics",
+	"version": "1.0",
+	"description": "Automatically add GA code to any theme.",
+	"demo": "http://koken.me",
+	"author": {
+		"name": "Koken",
+		"link": "http://koken.me"
+	},
+
+	"data": {
+		"tracking_id": {
+			"label": "Tracking ID",
+			"info": "You can find your tracking info by logging into Google Analytics, clicking Admin, then selecting the Tracking Info tab.",
+			"type": "string",
+			"value": "UA-XXXXXXXX-X",
+			"validation": {
+				"type": "regex",
+				"rule":	"^UA\\-[0-9]{4,10}\\-\\d{1,2}$",
+				"error_message": "Not a valid tracking ID. It should be in this format: UA-XXXXXXXX-X"
+			}
+		}
+	}
+}
