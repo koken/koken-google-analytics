@@ -4,13 +4,13 @@ class KokenGoogleAnalytics extends KokenPlugin {
 
 	function __construct()
 	{
-		$this->register_filter('before_closing_head', 'render');
+		$this->register_hook('before_closing_head', 'render');
 	}
 
 	function render()
 	{
 
-		return <<<OUT
+		echo <<<OUT
 <script type="text/javascript">
 
 	var _gaq = _gaq || [];
