@@ -7,6 +7,11 @@ class KokenGoogleAnalytics extends KokenPlugin {
 		$this->register_hook('before_closing_head', 'render');
 	}
 
+	function requires_setup()
+	{
+		return true;
+	}
+	
 	function render()
 	{
 

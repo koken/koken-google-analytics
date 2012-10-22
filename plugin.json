@@ -11,9 +11,8 @@
 	"data": {
 		"tracking_id": {
 			"label": "Tracking ID",
-			"info": "You can find your tracking info by logging into Google Analytics, clicking Admin, then selecting the Tracking Info tab.",
+			"info": "You can find your tracking info by logging into Google Analytics, clicking Admin, then selecting the Tracking Info tab. Example: UA-1234567-8",
 			"type": "string",
-			"value": "UA-XXXXXXXX-X",
 			"validation": {
 				"type": "regex",
 				"rule":	"^UA\\-[0-9]{4,10}\\-\\d{1,2}$",
