@@ -4,14 +4,10 @@ class KokenGoogleAnalytics extends KokenPlugin {
 
 	function __construct()
 	{
+		$this->require_setup = true;
 		$this->register_hook('before_closing_head', 'render');
 	}
 
-	function requires_setup()
-	{
-		return true;
-	}
-	
 	function render()
 	{
 
