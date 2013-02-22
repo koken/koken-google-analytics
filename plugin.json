@@ -1,7 +1,7 @@
-{ 
+{
 	"name": "Google Analytics",
 	"version": "1.0",
-	"description": "Automatically add GA code to any theme.",
+	"description": "Automatically add Google Analytics code to any theme.",
 	"demo": "http://koken.me",
 	"author": {
 		"name": "Koken",
