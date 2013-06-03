@@ -10,6 +10,7 @@ class KokenGoogleAnalytics extends KokenPlugin {
 
 	function render()
 	{
+		$anonymize = $this->data->anonymize ? 'true' : 'false';
 
 		echo <<<OUT
 <script type="text/javascript">
@@ -17,6 +18,7 @@ class KokenGoogleAnalytics extends KokenPlugin {
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', '{$this->data->tracking_id}']);
  	_gaq.push(['_trackPageview']);
+ 	_gaq.push(['_anonymizeIP', {$anonymize}]);
 
  	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
