@@ -1,0 +1,1 @@
+Automatically generates and inserts [Google Analytics](http://www.google.com/analytics/) tracking code into your published site. Compatible with any Koken theme.

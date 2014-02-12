@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="68px" height="78px" viewBox="0 0 68 78" overflow="visible" enable-background="new 0 0 68 78"
+	 xml:space="preserve">
+<defs>
+</defs>
+<polygon points="34.001,0 0,19.5 0,58.5 34.001,78 68,58.5 68,19.5 "/>
+<path id="bar_chart_2_icon_1_" fill="#FFFFFF" d="M26.175,45.683h-4.893V35.463h4.893V45.683L26.175,45.683z M33.019,45.683h-4.893
+	V25h4.893V45.683z M39.863,45.683h-4.893V31.286h4.893V45.683z M46.708,45.683h-4.893v-5.188h4.893V45.683z M49,47.691H19V51h30
+	V47.691z"/>
+</svg>
