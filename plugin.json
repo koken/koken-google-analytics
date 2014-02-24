@@ -5,8 +5,10 @@
 	"demo": "http://koken.me",
 	"author": {
 		"name": "Koken",
-		"link": "http://koken.me"
+		"link": "https://store.koken.me/authors/koken"
 	},
+
+	"koken_version_required": "0.2.0",
 
 	"data": {
 		"tracking_id": {
