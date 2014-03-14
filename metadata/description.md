@@ -1,1 +1,1 @@
-Automatically generates and inserts [Google Analytics](http://www.google.com/analytics/) tracking code into your published site. Compatible with any Koken theme.
+Inserts [Google Analytics](http://www.google.com/analytics/) tracking code into your Koken site to track page views and other data. Also includes an Anonymize IP option for countries where IP address acquisition isn't allowed. Compatible with any Koken theme.
