@@ -10,6 +10,8 @@ Documentation: http://help.koken.me/customer/portal/articles/874107-google-analy
 Changelog
 ---------
 
+1.2 - Add option for enabling demographics and interest reports code
+
 1.1 - Add option for anonymizing IP information (Nico Kaiser)
 
 1.0 - Initial release
