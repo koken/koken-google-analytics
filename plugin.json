@@ -25,6 +25,11 @@
 			"label": "Anonymize IP",
 			"info": "Tells Google Analytics to anonymize the information sent by the tracker objects by removing the last octet of the IP address prior to its storage. Note that this will slightly reduce the accuracy of geographic reporting.",
 			"type": "boolean"
+		},
+		"demographics": {
+			"label": "Support Display Advertising",
+			"info": "If you choose to support Display Advertising from within Google Analytics you need to check this box for the correct tracking code to be inserted onto your site. If you have not enabled Display Advertising from within your Google Analytics admin this will have no effect.",
+			"type": "boolean"
 		}
 	}
 }
