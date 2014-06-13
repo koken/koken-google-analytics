@@ -1,6 +1,6 @@
 {
 	"name": "Google Analytics",
-	"version": "1.2",
+	"version": "1.2.0",
 	"description": "Add Google Analytics to any theme.",
 	"demo": "http://koken.me",
 	"author": {
@@ -27,8 +27,8 @@
 			"type": "boolean"
 		},
 		"demographics": {
-			"label": "Support Display Advertising",
-			"info": "If you choose to support Display Advertising from within Google Analytics you need to check this box for the correct tracking code to be inserted onto your site. If you have not enabled Display Advertising from within your Google Analytics admin this will have no effect.",
+			"label": "Enable Demographics and Interests reports",
+			"info": "Enables demographics and interest data in your reports. This option will have no effect unless you have enabled demographics reports in the analytics interface.",
 			"type": "boolean"
 		}
 	}
