@@ -27,8 +27,8 @@
 			"type": "boolean"
 		},
 		"demographics": {
-			"label": "Enable Demographics and Interests reports",
-			"info": "Enables demographics and interest data in your reports. This option will have no effect unless you have enabled demographics reports in the analytics interface.",
+			"label": "Enable demographics and interests reports",
+			"info": "These reports let you see not only how many of your users engage over a date range, but also who those users are, and how their behavior varies by attribute (e.g., male vs. female). This option will have no effect unless you have enabled demographics reports in the Google Analytics interface.",
 			"type": "boolean"
 		}
 	}
