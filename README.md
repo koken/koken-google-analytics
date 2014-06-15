@@ -7,17 +7,10 @@ A [Koken](http://koken.me) installation (0.2.0 or higher) and a free [Google Ana
 
 Documentation: http://help.koken.me/customer/portal/articles/874107-google-analytics
 
-Changelog
----------
-
-1.1 - Add option for anonymizing IP information (Nico Kaiser)
-
-1.0 - Initial release
-
 License
 -------
 
-Copyright (c) 2013 Dominey Design Inc.
+Copyright (c) 2013-4 Koken.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
