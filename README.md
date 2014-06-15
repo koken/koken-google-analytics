@@ -7,6 +7,15 @@ A [Koken](http://koken.me) installation (0.2.0 or higher) and a free [Google Ana
 
 Documentation: http://help.koken.me/customer/portal/articles/874107-google-analytics
 
+Changelog
+---------
+
+1.2 - Add option for enabling demographics and interest reports code
+
+1.1 - Add option for anonymizing IP information (Nico Kaiser)
+
+1.0 - Initial release
+
 License
 -------
 
