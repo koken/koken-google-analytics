@@ -27,8 +27,8 @@
 			"type": "boolean"
 		},
 		"demographics": {
-			"label": "Support Display Advertising",
-			"info": "If you choose to support Display Advertising from within Google Analytics you need to check this box for the correct tracking code to be inserted onto your site. If you have not enabled Display Advertising from within your Google Analytics admin this will have no effect.",
+			"label": "Enable Demographics and Interests reports",
+			"info": "If you choose to enable demographics and interests reports from within Google Analytics you need to check this box for the correct tracking code to be inserted onto your site.",
 			"type": "boolean"
 		}
 	}
