@@ -30,6 +30,10 @@ class KokenGoogleAnalytics extends KokenPlugin {
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
  	})();
 
+	// For themes that use pjax or turbolinks
+	$(window).on('page:change pjax:success', function() {
+		_gaq.push(['_trackPageview']);
+	});
 </script>
 OUT;
 
